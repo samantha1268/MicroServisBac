@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ArquitecturaMicrosoft1test.props" />
+</Project>
